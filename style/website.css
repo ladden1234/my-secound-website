@@ -1,0 +1,14 @@
+h2{
+    background-color: tomato;
+}
+p{
+    color: aqua;
+    tab-size: 25px;
+}
+div{
+    background-color: tomato;
+}
+*{
+    margin: 20px;
+    padding: 10px;
+}
